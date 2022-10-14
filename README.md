@@ -1,9 +1,6 @@
 # TVBoxOSC
 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。
 
-
-# TVBoxOSC
-
 ![Build](https://shields.io/github/workflow/status/o0HalfLife0o/TVBoxOSC/Test?logo=github&label=Build)
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/TVBoxOSC)
 [![Download](https://img.shields.io/github/v/release/o0HalfLife0o/TVBoxOSC?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/o0HalfLife0o/TVBoxOSC/releases/latest) 
